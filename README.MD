@@ -1,8 +1,9 @@
-# c14-project3-starter
+# Sovai Health - Project Starter 
 Examples MERN Stack for project 3
 
 ## Development
 To run this app you will need two terminal windows, one for the server and one for the client.
+
 In terminal 1:
 Optional - set MONGO_URI to be the connection string to your MongoDB
 ```
@@ -12,7 +13,7 @@ npm start
 ```
 In terminal 2:
 ```
-cd buyer-web
+cd client-web
 npm install
 npm run dev
 ```
